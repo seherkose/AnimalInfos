@@ -1,4 +1,5 @@
 # AnimalInfos
 
-https://github.com/seherkose/AnimalInfos/assets/86297425/f6cf300a-3d51-443d-8b6a-8a01c4b31555
+
+https://github.com/seherkose/AnimalInfos/assets/86297425/1494f110-74a4-4e9a-b626-69c30f79ada8
 
