@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AnimalInfos
 //
-//  Created by Seher Köse on 15.07.2023.
+
 //
 
 import UIKit
